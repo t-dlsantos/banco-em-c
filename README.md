@@ -14,5 +14,8 @@
 Realize o Download do arquivo no repositório
 
 #Execução do projeto
-Abre o arquivo com a IDE escolhida compile e execute
+Abre o arquivo com a IDE escolhida, compile e execute
 ```
+<h1>Autores</h1>
+<p>Thiago de Lima Santos</p>
+<p>Luis Augusto Machado <a href="https://github.com/LuisMachado7">GitHub</a></p>
