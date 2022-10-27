@@ -10,11 +10,11 @@
 <p><em>Pré-Requisito: Qualquer IDE que compile C++. Recomendações: CodeBlocks ou Dev-C++</em></p>
 
 ```bash
-#Download do arquivo "banco.c"
-Realize o Download do arquivo no repositório
+#Cópia do código no arquivo "banco.c"
+Realize a cópia completa do código no arquivo "banco.c" do repositório
 
 #Execução do projeto
-Abre o arquivo com a IDE escolhida, compile e execute
+Abre o arquivo com a IDE escolhida e cole o código em um novo arquivo fonte.Compile e execute
 ```
 <h1>Autores</h1>
 <p>Thiago de Lima Santos</p>
